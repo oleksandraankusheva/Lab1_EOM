@@ -1,0 +1,28 @@
+E:\учёба\универ\4 курс 1 семестр\моделювання систем\лаб1\lab1\bin\Debug\net8.0\lab1.exe
+E:\учёба\универ\4 курс 1 семестр\моделювання систем\лаб1\lab1\bin\Debug\net8.0\lab1.deps.json
+E:\учёба\универ\4 курс 1 семестр\моделювання систем\лаб1\lab1\bin\Debug\net8.0\lab1.runtimeconfig.json
+E:\учёба\универ\4 курс 1 семестр\моделювання систем\лаб1\lab1\bin\Debug\net8.0\lab1.dll
+E:\учёба\универ\4 курс 1 семестр\моделювання систем\лаб1\lab1\bin\Debug\net8.0\lab1.pdb
+E:\учёба\универ\4 курс 1 семестр\моделювання систем\лаб1\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\учёба\универ\4 курс 1 семестр\моделювання систем\лаб1\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+E:\учёба\универ\4 курс 1 семестр\моделювання систем\лаб1\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+E:\учёба\универ\4 курс 1 семестр\моделювання систем\лаб1\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+E:\учёба\универ\4 курс 1 семестр\моделювання систем\лаб1\lab1\obj\Debug\net8.0\lab1.dll
+E:\учёба\универ\4 курс 1 семестр\моделювання систем\лаб1\lab1\obj\Debug\net8.0\refint\lab1.dll
+E:\учёба\универ\4 курс 1 семестр\моделювання систем\лаб1\lab1\obj\Debug\net8.0\lab1.pdb
+E:\учёба\универ\4 курс 1 семестр\моделювання систем\лаб1\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
+E:\учёба\универ\4 курс 1 семестр\моделювання систем\лаб1\lab1\obj\Debug\net8.0\ref\lab1.dll
+D:\Lenovo\univer\4курс_1сем\МІС\моделювання систем\лаб1\lab1\bin\Debug\net8.0\lab1.exe
+D:\Lenovo\univer\4курс_1сем\МІС\моделювання систем\лаб1\lab1\bin\Debug\net8.0\lab1.deps.json
+D:\Lenovo\univer\4курс_1сем\МІС\моделювання систем\лаб1\lab1\bin\Debug\net8.0\lab1.runtimeconfig.json
+D:\Lenovo\univer\4курс_1сем\МІС\моделювання систем\лаб1\lab1\bin\Debug\net8.0\lab1.dll
+D:\Lenovo\univer\4курс_1сем\МІС\моделювання систем\лаб1\lab1\bin\Debug\net8.0\lab1.pdb
+D:\Lenovo\univer\4курс_1сем\МІС\моделювання систем\лаб1\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lenovo\univer\4курс_1сем\МІС\моделювання систем\лаб1\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+D:\Lenovo\univer\4курс_1сем\МІС\моделювання систем\лаб1\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+D:\Lenovo\univer\4курс_1сем\МІС\моделювання систем\лаб1\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+D:\Lenovo\univer\4курс_1сем\МІС\моделювання систем\лаб1\lab1\obj\Debug\net8.0\lab1.dll
+D:\Lenovo\univer\4курс_1сем\МІС\моделювання систем\лаб1\lab1\obj\Debug\net8.0\refint\lab1.dll
+D:\Lenovo\univer\4курс_1сем\МІС\моделювання систем\лаб1\lab1\obj\Debug\net8.0\lab1.pdb
+D:\Lenovo\univer\4курс_1сем\МІС\моделювання систем\лаб1\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
+D:\Lenovo\univer\4курс_1сем\МІС\моделювання систем\лаб1\lab1\obj\Debug\net8.0\ref\lab1.dll
